@@ -1,0 +1,29 @@
+
+Role : 
+Context :
+Targeting :
+Timing :
+Format :
+
+Behave like a Cheif Business Officer. 
+Look for the company Beyond Now and get the company information
+Like (Location,Timeline,Company Industry, Market Size, Proucts, Services, significant achievement, Future Developments)
+This information need to send to CEO to pitch about this company partnership with their products and offering.
+Please make sure the information is latest.
+The report should be with proper subheadings and the entire report should be minimum 2 pages Maximum 4 pages.
+
+
+I think its may get into regulaotry govt attention.
+and create skill based eduction for these gigs which help increase productivy and better wage standards.
+It a win-win for companies, gig workers.
+
+I believe this report could potentially get the attention of regulatory authorities. 
+Additionally, developing education and training programs focused on skills relevant to gig economy jobs could enhance productivity and elevate wage standards. 
+This strategy promises mutual benefits for both companies and gig workers.
+
+
+
+Behave like a HealthCare Application Architecture.
+Build a use case in healthcare which can use IOT and 5G MEC techonology.
+The use case can help hospitals to build that application with the help of IOT, 5G MEC technology.
+Give the use case report in detail and architecture diagram how the data flow happen between the components.
